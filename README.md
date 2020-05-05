@@ -1,16 +1,19 @@
 ## DESCRICAO
-Através desse módulo do bootcamp gostack11, eu pude compreender dois princípios importantíssimos do SOLID. O primeiro diz que cada entidade de nossa arquitetura deve ter apenas uma responsabilidade (Single Responsability Principle), além disso aprendi que as classes de alto nível não devem depender das de baixo nível, (Dependency Inversion Principle) e também pude aprender sobre regras de negócio com o conceito chamado DRY (Dont Repeat Yourself) além de aprender uma melhor forma na transferencia de dados na aplicação utilizando o DTO (Data Transfer Object)
+Através desse módulo do bootcamp gostack11, eu pude compreender e aprender conceitos importantíssimos. Além disso, com uma metodologia totalmente prática, conectamos nossa aplicação à uma database postgres utilizando o ORM TypeORM, utilizamos o versionamento de banco através de migrations, além de entender como utilizar o multer para upload de arquivos, exception handling, jwt authentication, KISS, criptografia de senha, relacionamentos no SQL, utilização de middlewares, decorators em nossas entidades, services e várias outras coisas
 
-## CONCEITOS APRENDIDOS
-- Single Responsability Principle
-- Dependency Inversion Princple
-- Dont Repeat Yourself
-- Data Transfer Object
+## CONCEITOS E FERRAMENTAS APRENDIDAS
+- TypeORM
+- Migrations
+- Upload de arquivos com multer
+- Exception Handling, 
+- KISS
+- Criptografia de senha
+- Autenticação JWT
+- Relacionamentos SQL
+- Utilização de middlewares
+- Decorators em nossas entidades
+- Services
 
-## FERRAMENTAS APRENDIDAS
-- Editor config
-- ESLint AirBnB Style
-- Prettier
 
 ## INSTRUÇÕES PARA UTILIZAÇÃO
 
