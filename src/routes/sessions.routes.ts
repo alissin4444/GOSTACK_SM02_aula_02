@@ -14,6 +14,8 @@ sessionsRouter.post('/', async (request, response) => {
     password,
   });
 
+  delete user.password_hash;
+
   return response.json({ user, token });
 });
 
